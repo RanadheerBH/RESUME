@@ -1,0 +1,9 @@
+.rana{
+    border-radius: 50%;
+}
+.container {
+    display: flex;
+}
+.list {
+    margin-right: 20px;
+}
